@@ -15,20 +15,20 @@ A simple, SOLID-principled, object-oriented e-commerce system developed in Java.
 ## Checkout Example Output
 
 ** Shipment Notice **  
-2x Cheese 200g  
-1x Falamank Cheese 500g  
-Total Package Weight: 0.9 kg  
+Shipping: 2x Cheese 200g
+Shipping: 1x Falamank Cheese 500g
+Total package weight 9.0kg
 
 ** Checkout Receipt **  
-2x Cheese 200g: 200  
-1x Falamank Cheese 500g: 225  
-1x Scratch Card: 50  
+2x Cheese 200g 200.0
+1x Falamank Cheese 500g 225.0
+1x Scratch Card 50.0 
 
 --------------------------  
-Subtotal: 575.0  
-Shipping Fee: 9.0  
-Total Paid: 584.0  
-Remaining Balance: 4416.0  
+Subtotal 475.0
+Shipping 9.0
+Amount 484.0
+Balance after payment: 4516.0
 
 
 ## Technologies
