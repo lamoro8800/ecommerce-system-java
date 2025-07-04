@@ -17,7 +17,7 @@ A simple, SOLID-principled, object-oriented e-commerce system developed in Java.
 ** Shipment Notice **
 - 2x Cheese 200g
 - 1x Falamank Cheese 500g
-Total Package Weight: 0.9 kg
+- Total Package Weight: 0.9 kg
 
 ** Checkout Receipt **
 - 2x Cheese 200g: 200
@@ -25,10 +25,10 @@ Total Package Weight: 0.9 kg
 - 1x Scratch Card: 50
 
 --------------------------
-Subtotal: 575.0
-Shipping Fee: 9.0
-Total Paid: 584.0
-Remaining Balance: 4416.0
+- Subtotal: 575.0
+- Shipping Fee: 9.0
+- Total Paid: 584.0
+- Remaining Balance: 4416.0
 
 ## Technologies
 
